@@ -13,7 +13,7 @@ Travelhive is a user-friendly web application that allows users to *search, book
 
 ## 🛠 Tech Stack
 
-- *Frontend*: HTML, CSS, JavaScript 
+- *Frontend*: HTML, CSS 
 - *Backend*: PHP
 - *Database*: MySQL
 
@@ -22,4 +22,4 @@ Travelhive is a user-friendly web application that allows users to *search, book
 
 
 
-This project is open-source and available under the [MIT License](LICENSE).
+
